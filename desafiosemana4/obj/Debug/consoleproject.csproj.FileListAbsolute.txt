@@ -1,0 +1,15 @@
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\bin\Debug\EntityFramework.dll
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\bin\Debug\EntityFramework.xml
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\obj\Debug\consoleproject.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\obj\Debug\consoleproject.csproj.CopyComplete
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\bin\Debug\consoleproject.exe.config
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\bin\Debug\consoleproject.exe
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\bin\Debug\consoleproject.pdb
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\obj\Debug\consoleproject.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\obj\Debug\consoleproject.exe
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\obj\Debug\consoleproject.pdb
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\obj\Debug\consoleproject.Migrations.Initial.resources
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\obj\Debug\consoleproject.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\desafiosemana4\desafiosemana4\obj\Debug\consoleproject.Migrations.idade.resources
